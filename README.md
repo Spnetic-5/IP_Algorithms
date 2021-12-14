@@ -1,4 +1,4 @@
-## Image Processing Task
+## Image Processing Tasks
 
 The following operations have been performed mainly using only Numpy and Pillow library is used just to load and save image.
 
